@@ -28,7 +28,7 @@ TaeYun Algorithm
     <td></td>
   </tr>
   <tr align="center">
-    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/1916">[1916]최소비용_구하기</a></td>
+    <td align="left">🥇5 | <a href="https://www.acmicpc.net/problem/1916">[1916]최소비용 구하기</a></td>
     <td>❌</td>
     <td></td>
   </tr>
@@ -53,22 +53,22 @@ TaeYun Algorithm
     <td>다익스트라(PQ)</td>
   </tr>
   <tr align="center">
-    <td align="left">🥈4 | <a href="https://www.acmicpc.net/problem/12927">[12927]배수_스위치</a></td>
+    <td align="left">🥈4 | <a href="https://www.acmicpc.net/problem/12927">[12927]배수 스위치</a></td>
     <td>❌</td>
     <td></td>
   </tr>
   <tr align="center">
-    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/2206">[2206]벽_부수고_이동하기</a></td>
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/2206">[2206]벽 부수고 이동하기</a></td>
     <td>❌</td>
     <td></td>
   </tr>
   <tr align="center">
-    <td align="left">🥇2 | <a href="https://www.acmicpc.net/problem/19236">[19236]청소년_상어</a></td>
+    <td align="left">🥇2 | <a href="https://www.acmicpc.net/problem/19236">[19236]청소년 상어</a></td>
     <td>❌</td>
     <td></td>
   </tr>
   <tr align="center">
-    <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/17086">[17086]아기_상어_2</a></td>
+    <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/17086">[17086]아기 상어 2</a></td>
     <td>❌</td>
     <td></td>
   </tr>
@@ -90,4 +90,5 @@ TaeYun Algorithm
 
 
 * * *
-### SSAFY에서 푼 문제들은 다른 깃허브에 저장되어 있음 https://github.com/Java-3-0/ty_Algorithm 
+#### SSAFY에서 푼 문제들은 다른 깃허브에 저장되어 있음
+ - SSAFY 링크 : https://github.com/Java-3-0/ty_Algorithm 
