@@ -2,12 +2,14 @@ TaeYun Algorithm
 ===
 김태윤의 PS일기
 
+
 ## 🤜자바로 코딩테스트를 새롭게 준비하는 중🤛  
-🖋 목표 1 : 백준 🥇1   
+🖋 목표 1 : 백준 🥇1  (현재 🥇3)  
 🖋 목표 2 : 프로그래머스 레벨 4️⃣ 수월하게 풀기  
 
 
 ## 🚥 현황판
+ 
 <table>
   <tr>
     <th colspan="1"><b>목적</b></td>
@@ -38,3 +40,8 @@ TaeYun Algorithm
 [Baekjoon](https://www.acmicpc.net/)
 
 [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+
+
+
+* * *
+### SSAFY에서 푼 문제들은 다른 깃허브에 저장되어 있음 https://github.com/Java-3-0/ty_Algorithm 
