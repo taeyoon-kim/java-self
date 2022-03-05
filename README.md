@@ -39,8 +39,8 @@ TaeYun Algorithm
   </tr>
   <tr align="center">
     <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/3055">[3055]탈출</a></td>
-    <td>❌</td>
-    <td></td>
+    <td>⭕️</td>
+    <td>BFS</td>
   </tr>
   <tr align="center">
     <td align="left">🧼5 | <a href="https://www.acmicpc.net/problem/1786">[1786]찾기</a></td>
