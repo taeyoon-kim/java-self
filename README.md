@@ -73,12 +73,22 @@ TaeYun Algorithm
     <td></td>
   </tr>
   <tr align="center">
-    <td rowspan="10" >2022.03.05</td>
+    <td rowspan="1" >2022.03.05</td>
     <td align="left">🧼5 | <a href="https://www.acmicpc.net/problem/3197">[3197]백조의 호수</a></td>
     <td>❌</td>
     <td></td>
   </tr>
-  
+  <tr align="center">
+    <td rowspan="2" >2022.03.10</td>
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/1238">[1238]파티</a></td>
+    <td>❌</td>
+    <td>다익스트라 두 번 사용하고, isVisited사용해보기</td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/1774">[1774]우주신과의 교감</a></td>
+    <td>❌</td>
+    <td>Prim알고리즘으로 풀어보기</td>
+  </tr>
 </table>
 
 
