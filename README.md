@@ -95,6 +95,12 @@ TaeYun Algorithm
     <td>⭕️</td>
     <td></td>
   </tr>
+  <tr align="center">
+    <td rowspan="1" >2022.03.20</td>
+    <td align="left">🧼2 | <a href="https://www.acmicpc.net/problem/10256">[10256]돌연변이</a></td>
+    <td>❌</td>
+    <td></td>
+  </tr>
 </table>
 
 
