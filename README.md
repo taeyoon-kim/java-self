@@ -89,6 +89,12 @@ TaeYun Algorithm
     <td>❌</td>
     <td>Prim알고리즘으로 풀어보기</td>
   </tr>
+  <tr align="center">
+    <td rowspan="1" >2022.03.19</td>
+    <td align="left">🥈2 | <a href="https://www.acmicpc.net/problem/11725">[11725]트리의 부모 찾기</a></td>
+    <td>⭕️</td>
+    <td></td>
+  </tr>
 </table>
 
 
