@@ -96,8 +96,13 @@ TaeYun Algorithm
     <td></td>
   </tr>
   <tr align="center">
-    <td rowspan="1" >2022.03.20</td>
+    <td rowspan="2" >2022.03.20</td>
     <td align="left">🧼2 | <a href="https://www.acmicpc.net/problem/10256">[10256]돌연변이</a></td>
+    <td>❌</td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/14863">[14863]서울에서 경산까지</a></td>
     <td>❌</td>
     <td></td>
   </tr>
