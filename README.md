@@ -106,6 +106,17 @@ TaeYun Algorithm
     <td>❌</td>
     <td></td>
   </tr>
+  <tr align="center">
+    <td rowspan="2" >2022.03.27</td>
+    <td align="left">🥇4 | <a href="https://www.acmicpc.net/problem/11657">[11657]타임머신</a></td>
+    <td>❌</td>
+    <td>벨만포드(음의간선그래프)문제이지만, SPFA로도 풀기</td>
+  </tr>
+  <tr align="center">
+    <td align="left">🥇3 | <a href="https://www.acmicpc.net/problem/1865">[1865]웜홀</a></td>
+    <td>❌</td>
+    <td>벨만포드</td>
+  </tr>
 </table>
 
 
