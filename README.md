@@ -117,6 +117,12 @@ TaeYun Algorithm
     <td>❌</td>
     <td>벨만포드</td>
   </tr>
+  <tr align="center">
+    <td rowspan="1" >2022.04.17</td>
+    <td align="left">🧼5 | <a href="https://www.acmicpc.net/problem/5373">[5373]큐빙</a></td>
+    <td>❌</td>
+    <td></td>
+  </tr>
 </table>
 
 
